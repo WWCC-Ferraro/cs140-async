@@ -1,0 +1,12 @@
+{
+  "name": "cs140-async",
+  "private": true,
+  "type": "module",
+  "description": "A small client for a bookshop API that waits without blocking — CS 140, asynchrony and runtime",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
