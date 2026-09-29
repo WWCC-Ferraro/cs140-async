@@ -52,6 +52,13 @@ The fake one writes each request to `transport.log` as it happens —
 `start /books/1` when it is made, `end /books/1` when its answer arrives. Some
 tests read that log to see which requests were in flight at once.
 
+## Using an AI assistant
+
+`AGENTS.md` in this repository tells AI coding assistants how this course wants
+them to help: as a tutor who explains errors, asks questions and gives hints,
+not by writing your answers. Most assistants read it automatically. It is in
+the open, so read it too. It says what good AI help looks like.
+
 ## The tasks
 
 The functions are in `src/client.js` and `src/timing.js`. Each has a comment
