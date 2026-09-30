@@ -15,12 +15,14 @@ milliseconds, using the host's timers. Your code cannot tell it is fake.
 
 ## Getting started
 
-1. Make your own copy of this repository with **Use this template** on GitHub.
-2. Work in whichever place suits you. Both are fully supported:
-   - **A Codespace.** On your copy, choose **Code → Codespaces → Create
-     codespace**. Node is already installed.
-   - **Your own machine.** Clone your copy, and use Node 22 or later.
-3. Run the tests:
+1. Open **your repository**. It is made for you: private, and named for this
+   homework, the term and your username — `<term>-cs140-async-<you>`. On
+   [this homework's page](https://wwcc.dev/#/lesson/async-assignment), type your GitHub
+   username and click **Open my Codespace**. On your own computer, clone it
+   with GitHub Desktop (**Code**, then **Open with GitHub Desktop**) and check
+   that `node --version` prints 22 or later. Start Here's *How a homework works*
+   walks through both.
+2. Run the tests:
 
 ```bash
 npm test
