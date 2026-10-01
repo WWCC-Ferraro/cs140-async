@@ -20,7 +20,7 @@ milliseconds, using the host's timers. Your code cannot tell it is fake.
    [this homework's page](https://wwcc.dev/#/lesson/async-assignment), type your GitHub
    username and click **Open my Codespace**. On your own computer, clone it
    with GitHub Desktop (**Code**, then **Open with GitHub Desktop**) and check
-   that `node --version` prints 22 or later. Start Here's *How a homework works*
+   that `node --version` prints 22 or later. The lesson *How a homework works*
    walks through both.
 2. Run the tests:
 
